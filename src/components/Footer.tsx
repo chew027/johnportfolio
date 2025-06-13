@@ -34,7 +34,7 @@ const Footer = () => {
         
         <div className="border-t border-zinc-800 pt-8 text-center">
           <p className="text-gray-400 text-sm font-light">
-            © 2025 John Matthew. All rights reserved.
+            © 2025 John Matthew Morillo. All rights reserved.
           </p>
         </div>
       </div>
